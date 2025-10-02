@@ -1,35 +1,34 @@
-##  สวัสดีครับ ผมกฤษณรักษ์ ศรีนุ่น — ผู้สมัครฝึกงาน QA/Software Tester
-ตำเเหน่ง **Software Tester** กำลังศึกษาอยู่ที่ **มหาวิทยาลัยราชมงคลตะวันออกวิทยาเขตจักรพงศ์ภูวนารถ**  
+## สวัสดีครับ ผมกฤษณรักษ์ ศรีนุ่น — ผู้สมัครฝึกงาน QA/Software Tester
+ตำแหน่ง **Software Tester (Intern)** • กำลังศึกษาอยู่ที่ **มหาวิทยาลัยเทคโนโลยีราชมงคลตะวันออก วิทยาเขตจักรพงษ์ภูวนารถ**
 
 ---
 
-###  About me 
-สวัสดีครับ ผม “เตอร์” ผู้สมัครฝึกงานสาย Software Tester ชอบวิเคราะห์และหาข้อผิดพลาดของระบบอย่างเป็นระบบ เข้าใจ **STLC** และให้ความสำคัญกับรายละเอียดเล็ก ๆ ที่ส่งผลต่อประสบการณ์ผู้ใช้ ผมทำงานเป็นลำดับชัดเจน: **Test Plan → Test Scenario/Test Case →  Test Report** เชื่อในการทดสอบที่ทำซ้ำได้ วัดได้ และตรวจสอบย้อนกลับได้ และพร้อมเรียนรู้เทคโนโลยี/แนวทางใหม่ ๆ เพื่อเติบโตในสายงานนี้อย่างมีประสิทธิภาพ
+### About me สวัสดีครับ ผม “เตอร์” ผู้สมัครฝึกงานสาย Software Tester ชอบวิเคราะห์และหาข้อผิดพลาดของระบบอย่างเป็นระบบ เข้าใจ **STLC** และให้ความสำคัญกับรายละเอียดเล็ก ๆ ที่ส่งผลต่อประสบการณ์ผู้ใช้ ผมทำงานเป็นลำดับชัดเจน: **Test Plan → Test Scenario/Test Case → Test Report** เชื่อในการทดสอบที่ทำซ้ำได้ วัดได้ และตรวจสอบย้อนกลับได้ และพร้อมเรียนรู้เทคโนโลยี/แนวทางใหม่ ๆ เพื่อเติบโตในสายงานนี้อย่างมีประสิทธิภาพ
 
 ---
 
 ## 📦 Projects
-### 1) BestPick — เเอปเปรียบเทียบราคาสินค้า 
+
+### 1) BestPick — แอปเปรียบเทียบราคาสินค้า
 - **สิ่งที่ทำ**
   - เขียน **Test Plan**
   - ออกแบบ **Test Scenario/Test Case**  
     *(Test Steps, Pre-Conditions, Test Data, Post-Conditions, Expected Result, Test Result)*
-  - ทดสอบ **API** ด้วย **Postman** 
-  - ทดสอบ **Manual** และ **Automation** ด้วย **Robot Framework, Appium** 
+  - ทดสอบ **API** ด้วย **Postman**
+  - ทดสอบ **Manual** และ **Automation** ด้วย **Robot Framework, Appium**
   - จัดทำ **Test Report** (ผลรวม, ข้อสรุป/ข้อเสนอแนะ)
-<!-- Repo: _ใส่ลิงก์รีโป_ • Docs: _ใส่ลิงก์เอกสาร_ -->
 
 ---
 
-### 2) AI Stock Prediction เเอปจำลองเทรดหุ้น
+### 2) AI Stock Prediction — แอปจำลองเทรดหุ้น
 - **สิ่งที่ทำ**
   - ออกแบบ **Test Scenario/Test Case**  
     *(Test Steps, Pre-Conditions, Test Data, Post-Conditions, Expected Result, Test Result)*
   - ทดสอบ **API** ด้วย **Postman**
-  - ทดสอบ **Manual** และ **Automation** ด้วย **Robot Framework + Selenium** 
+  - ทดสอบ **Manual** และ **Automation** ด้วย **Robot Framework + Selenium**
   - เขียน **Bug Report**  
     *(Steps to Reproduce, Expected Result, Actual Result, Severity, Status, Screenshot)*
-  - จัดทำ **Test Report**
+  - จัดทำ **Test Report** (ผลรวม, ข้อสรุป/ข้อเสนอแนะ)
 
 ---
 
@@ -61,25 +60,6 @@
 
 ---
 
-##  สิ่งที่กำลังศึกษา
-**ปัจจุบัน
-— API Automation ด้วย Postman**
-**ต่อไป
-— Cypress,Perfomance Test ด้วย JMeter**
-
-<!-- Repo: _ใส่ลิงก์รีโป_ • Docs: _ใส่ลิงก์เอกสาร_ -->
-
-<!--
-**krissanaruk/krissanaruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 สิ่งที่กำลังศึกษา
+**ตอนนี้:** API Automation ด้วย **Postman** 
+**ต่อไป:** **Cypress** • Performance Testing ด้วย **JMeter**
