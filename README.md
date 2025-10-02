@@ -3,15 +3,13 @@
 
 ---
 
-### About me 
-
+## About me 
 สวัสดีครับ ผม “เตอร์” ผู้สมัครฝึกงานสาย Software Tester ชอบวิเคราะห์และหาข้อผิดพลาดของระบบอย่างเป็นระบบ เข้าใจ **STLC** และให้ความสำคัญกับรายละเอียดเล็ก ๆ ที่ส่งผลต่อประสบการณ์ผู้ใช้ ผมทำงานเป็นลำดับชัดเจน: **Test Plan → Test Scenario/Test Case → Test Report** เชื่อในการทดสอบที่ทำซ้ำได้ วัดได้ และตรวจสอบย้อนกลับได้ และพร้อมเรียนรู้เทคโนโลยี/แนวทางใหม่ ๆ เพื่อเติบโตในสายงานนี้อย่างมีประสิทธิภาพ
 
 ---
 
 ## 📦 Projects
-
-### 1) BestPick — แอปเปรียบเทียบราคาสินค้า
+#### 1) BestPick — แอปเปรียบเทียบราคาสินค้า
 - **สิ่งที่ทำ**
   - เขียน **Test Plan**
   - ออกแบบ **Test Scenario/Test Case**  
@@ -20,9 +18,7 @@
   - ทดสอบ **Manual** และ **Automation** ด้วย **Robot Framework, Appium**
   - จัดทำ **Test Report** (ผลรวม, ข้อสรุป/ข้อเสนอแนะ)
 
----
-
-### 2) AI Stock Prediction — แอปจำลองเทรดหุ้น
+#### 2) AI Stock Prediction — แอปจำลองเทรดหุ้น
 - **สิ่งที่ทำ**
   - ออกแบบ **Test Scenario/Test Case**  
     *(Test Steps, Pre-Conditions, Test Data, Post-Conditions, Expected Result, Test Result)*
@@ -37,7 +33,7 @@
 ## 🧪 Skills (ทักษะ)
 - Manual Testing  
 - Automation Testing (Robot Framework, Selenium, Appium)  
-- Test Design: **Test Plan • Test Scenario • Test Case**  
+- Test Design: Test Plan • Test Scenario • Test Case  
 - API Testing (Postman)  
 - Bug Tracking & Reporting (Jira)
 
