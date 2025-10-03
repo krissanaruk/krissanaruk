@@ -59,6 +59,6 @@
 ---
 
 ## 📚 สิ่งที่กำลังศึกษา
-**ตอนนี้:** API Automation ด้วย **Postman** 
+**ปัจจุบัน:** API Automation ด้วย **Postman** 
 ---
 **ต่อไป:** **Cypress** • Performance Testing ด้วย **JMeter**
